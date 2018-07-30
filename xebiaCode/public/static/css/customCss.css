@@ -1,0 +1,19 @@
+/**
+ * Author: Mohit Arora
+ * Last update: 27-02-2018
+ * Description: all generics styles in LMS
+ * [place your all generic styles in this file]
+ */
+
+
+ @media screen and (max-width: 1370px) {
+    .progressBarWidth{
+        width: 10%;
+    }
+}    
+
+@media screen and (min-width: 1500px) {
+	.progressBarWidth{
+        width: 7%;
+    }
+}
